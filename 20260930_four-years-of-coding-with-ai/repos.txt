@@ -1,0 +1,12 @@
+# 추적할 GitHub 저장소 목록 (owner/repo, 한 줄에 하나)
+# 이 파일이 비어 있거나 없으면 run.py의 DEFAULT_REPOS를 사용합니다.
+anthropics/claude-code
+openai/codex
+google-gemini/gemini-cli
+Aider-AI/aider
+cline/cline
+continuedev/continue
+All-Hands-AI/OpenHands
+sst/opencode
+RooCodeInc/Roo-Code
+block/goose
