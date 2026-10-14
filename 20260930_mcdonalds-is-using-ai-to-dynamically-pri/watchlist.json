@@ -1,0 +1,26 @@
+{
+  "items": [
+    { "type": "steam", "appid": 413150, "cc": "us" },
+    { "type": "steam", "appid": 413150, "cc": "kr" },
+    { "type": "steam", "appid": 1145360, "cc": "us", "target_price": 12.5 },
+    { "type": "steam", "appid": 367520, "cc": "us", "target_price": 7.5 },
+    { "type": "steam", "appid": 105600, "cc": "us" },
+    { "type": "steam", "appid": 1245620, "cc": "us", "target_price": 30 },
+    { "type": "steam", "appid": 1245620, "cc": "kr" },
+    {
+      "type": "url",
+      "enabled": false,
+      "name": "예시: 일반 쇼핑몰 상품 (JSON-LD/meta 가격 자동 추출)",
+      "url": "https://example.com/product/123",
+      "target_price": 49.99
+    },
+    {
+      "type": "url",
+      "enabled": false,
+      "name": "예시: 가격 태그를 정규식으로 직접 지정",
+      "url": "https://example.com/item/456",
+      "price_regex": "class=\"price\"[^>]*>\\s*\\$?([\\d,.]+)",
+      "currency": "USD"
+    }
+  ]
+}
