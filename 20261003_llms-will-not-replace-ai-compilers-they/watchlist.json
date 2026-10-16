@@ -1,0 +1,12 @@
+{
+  "repos": [
+    "llvm/llvm-project",
+    "openai/triton",
+    "apache/tvm",
+    "pytorch/pytorch",
+    "google/jax",
+    "halide/Halide",
+    "bytecodealliance/wasmtime",
+    "microsoft/onnxruntime"
+  ]
+}
