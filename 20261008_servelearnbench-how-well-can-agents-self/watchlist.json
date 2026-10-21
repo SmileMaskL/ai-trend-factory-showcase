@@ -1,0 +1,12 @@
+{
+  "repos": [
+    "vllm-project/vllm",
+    "huggingface/text-generation-inference",
+    "sgl-project/sglang",
+    "ollama/ollama",
+    "ggerganov/llama.cpp",
+    "openai/openai-python",
+    "anthropics/anthropic-sdk-python",
+    "BerriAI/litellm"
+  ]
+}

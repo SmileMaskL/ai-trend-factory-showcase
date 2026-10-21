@@ -15,5 +15,6 @@
 | [AI 에이전트 보안 사고를 HN+NVD 교차 필터링해 신규 발생 시에만 텔레그램으로 알리는 무인 레이더](./20261002_autonomous-ai-agent-security-incidents-o/) | 2026-10-02 |
 | [주요 컴파일러/런타임 프로젝트의 공식 릴리스 노트와 HN 담론에서 "LLM이 컴파일러를 호출"하는 트렌드의 실제 착지 신호만 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261003_llms-will-not-replace-ai-compilers-they/) | 2026-10-03 |
 | [고양이·동물 표정에서 통증을 읽는 AI 연구/토론 신호를 매일 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261004_can-ai-read-pain-in-your-cats-face/) | 2026-10-04 |
+| [주요 LLM 서빙 엔진·SDK의 GitHub 릴리스 노트에서 breaking change/deprecation 키워드만 교차 감지해 텔레그램으로 알리는 무인 운영 리스크 레이더](./20261008_servelearnbench-how-well-can-agents-self/) | 2026-10-08 |
 
 _이 목록은 자동화 파이프라인이 매일 갱신합니다. 사람이 직접 편집하지 않습니다._
