@@ -16,5 +16,10 @@
 | [주요 컴파일러/런타임 프로젝트의 공식 릴리스 노트와 HN 담론에서 "LLM이 컴파일러를 호출"하는 트렌드의 실제 착지 신호만 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261003_llms-will-not-replace-ai-compilers-they/) | 2026-10-03 |
 | [고양이·동물 표정에서 통증을 읽는 AI 연구/토론 신호를 매일 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261004_can-ai-read-pain-in-your-cats-face/) | 2026-10-04 |
 | [주요 LLM 서빙 엔진·SDK의 GitHub 릴리스 노트에서 breaking change/deprecation 키워드만 교차 감지해 텔레그램으로 알리는 무인 운영 리스크 레이더](./20261008_servelearnbench-how-well-can-agents-self/) | 2026-10-08 |
+| [HN에서 AI 서비스 구독/가격 변경 신호만 걸러 텔레그램으로 알리는 무인 레이더](./20261013_the-x-subscription/) | 2026-10-13 |
+| [게임 디컴파일·ROM 해킹 오픈소스 + AI 포팅 커뮤니티 토론을 교차 포착해 텔레그램으로 알리는 무인 큐레이션 레이더](./20261014_xbox-is-officially-embracing-the-chaos-o/) | 2026-10-14 |
+| [AI 면접 정책 레이더 — HN에서 "면접 중 AI 사용 정책" 신호만 교차 필터링해 텔레그램으로 알리는 무인 봇](./20261015_adobe-software-engineer-interview-proces/) | 2026-10-15 |
+| [AI 브라우저 에이전트가 탭·기록을 읽는 기능 확산 신호를 HN+공식 릴리스노트에서 교차 감지해 텔레그램으로 알리는 무인 프라이버시 워치](./20261016_chatgpt-can-peek-at-your-chrome-tabs-now/) | 2026-10-16 |
+| [PyPI 신규 패키지 대량 퍼블리시·보일러플레이트 설명 패턴으로 "AI 소프트웨어 글루트"를 수치화해 텔레그램으로 알리는 무인 레이더](./20261017_puzzles-and-the-ai-software-glut/) | 2026-10-17 |
 
 _이 목록은 자동화 파이프라인이 매일 갱신합니다. 사람이 직접 편집하지 않습니다._

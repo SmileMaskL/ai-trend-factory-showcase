@@ -1,0 +1,17 @@
+{
+  "github_queries": [
+    "decomp game in:name,description",
+    "topic:decompilation topic:game",
+    "topic:rom-hacking",
+    "topic:game-preservation",
+    "topic:reverse-engineering topic:retro-gaming"
+  ],
+  "hn_queries": [
+    "game decompilation",
+    "console emulation",
+    "ROM hacking",
+    "game preservation",
+    "reverse engineering game",
+    "AI game port"
+  ]
+}

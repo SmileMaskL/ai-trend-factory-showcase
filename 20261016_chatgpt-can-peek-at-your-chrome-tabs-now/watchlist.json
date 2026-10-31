@@ -1,0 +1,27 @@
+{
+  "hn_queries": [
+    "ChatGPT Atlas",
+    "browser agent privacy",
+    "AI browser extension permission",
+    "agentic browser",
+    "Comet browser AI",
+    "Copilot browser tabs",
+    "browser agent reads tabs",
+    "AI reads browsing history"
+  ],
+  "rss_feeds": [
+    {"name": "Chrome Releases", "url": "https://chromereleases.googleblog.com/feeds/posts/default"},
+    {"name": "Chromium Blog", "url": "https://blog.chromium.org/feeds/posts/default"},
+    {"name": "Microsoft Edge Dev Blog", "url": "https://blogs.windows.com/msedgedev/feed/"}
+  ],
+  "privacy_keywords": [
+    "tab", "tabs", "browsing history", "clipboard", "screenshot",
+    "screen read", "password", "autofill", "cookie", "permission",
+    "read your", "access your", "personal data", "private data",
+    "browser history"
+  ],
+  "ai_keywords": [
+    "ai", "gpt", "chatgpt", "copilot", "gemini", "assistant",
+    "agent", "atlas", "comet", "genai", "llm"
+  ]
+}
