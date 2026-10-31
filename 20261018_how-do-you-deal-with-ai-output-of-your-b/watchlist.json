@@ -1,0 +1,18 @@
+{
+  "ai_tell_phrases": [
+    "delve into", "delve", "boilerplate", "furthermore", "moreover",
+    "it's worth noting", "it is worth noting", "it is important to note",
+    "in today's fast-paced world", "navigate the landscape",
+    "unlock the potential", "harness the power", "robust solution",
+    "seamless integration", "paradigm shift", "cutting-edge",
+    "game-changer", "game changer", "leverage the power",
+    "foster a", "ever-evolving", "testament to", "in conclusion",
+    "to summarize", "overall, this", "as an ai language model",
+    "as an ai, i", "i cannot provide", "i don't have personal",
+    "plays a crucial role", "plays a vital role", "underscores the",
+    "a myriad of", "a plethora of", "it's important to remember",
+    "let's dive in", "let's break down", "at the end of the day"
+  ],
+  "em_dash_threshold": 3,
+  "min_comment_length": 40
+}
