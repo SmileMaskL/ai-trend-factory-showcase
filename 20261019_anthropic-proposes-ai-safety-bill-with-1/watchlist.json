@@ -1,0 +1,17 @@
+{
+  "keywords": [
+    "AI safety bill",
+    "AI regulation",
+    "AI liability",
+    "AI safety act",
+    "artificial intelligence bill",
+    "AI moratorium",
+    "AI safety legislation",
+    "AI law"
+  ],
+  "lookback_hours": 72,
+  "min_points": 1,
+  "max_comments_per_story": 25,
+  "max_stories_per_keyword": 10,
+  "min_numeric_categories": 2
+}
