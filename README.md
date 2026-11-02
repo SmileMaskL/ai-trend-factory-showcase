@@ -23,5 +23,6 @@
 | [PyPI 신규 패키지 대량 퍼블리시·보일러플레이트 설명 패턴으로 "AI 소프트웨어 글루트"를 수치화해 텔레그램으로 알리는 무인 레이더](./20261017_puzzles-and-the-ai-software-glut/) | 2026-10-17 |
 | [Hacker News 댓글의 'AI 말투' 패턴 밀도를 매일 수치화해 급등 시 텔레그램으로 알려주는 무인 레이더](./20261018_how-do-you-deal-with-ai-output-of-your-b/) | 2026-10-18 |
 | [AI 규제 담론이 추상적 구호에서 구체적 숫자(금액·사망자 수) 임계값으로 넘어가는 순간을 HN에서 포착해 텔레그램으로 알리는 무인 레이더](./20261019_anthropic-proposes-ai-safety-bill-with-1/) | 2026-10-19 |
+| [데이터센터 허가·그리드 정책-실행 괴리(policy-action gap) 신호를 HN+Google News에서 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261020_texas-said-it-would-halt-data-center-per/) | 2026-10-20 |
 
 _이 목록은 자동화 파이프라인이 매일 갱신합니다. 사람이 직접 편집하지 않습니다._
