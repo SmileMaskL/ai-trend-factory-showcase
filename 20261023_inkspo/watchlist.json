@@ -1,0 +1,13 @@
+{
+  "search_queries": ["AI", "GPT"],
+  "creative_keywords": [
+    "design", "designer", "art", "illustration", "illustrator",
+    "draw", "drawing", "sketch", "generative art", "creative",
+    "logo", "poster", "graphic", "tattoo", "ink", "doodle",
+    "paint", "painting", "canvas", "visual", "aesthetic",
+    "image generator", "comic", "animation", "inkspo"
+  ],
+  "lookback_hours": 48,
+  "max_points_for_early_signal": 20,
+  "max_items_per_run": 5
+}

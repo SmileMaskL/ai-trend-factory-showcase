@@ -1,0 +1,43 @@
+{
+  "vendors": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Microsoft",
+    "Meta",
+    "Amazon",
+    "AWS",
+    "Salesforce",
+    "Oracle",
+    "IBM",
+    "Databricks",
+    "Scale AI",
+    "Copilot",
+    "Gemini",
+    "ChatGPT",
+    "Claude"
+  ],
+  "liability_terms": [
+    "liability",
+    "liable",
+    "indemnif",
+    "indemnity",
+    "hold harmless",
+    "disclaim",
+    "disclaimer",
+    "warranty",
+    "customer's fault",
+    "customer fault",
+    "your fault",
+    "at your own risk",
+    "no warranty",
+    "terms of service",
+    "terms and conditions",
+    "contract terms",
+    "enterprise agreement",
+    "assume responsibility",
+    "assumes no responsibility"
+  ],
+  "lookback_days": 7,
+  "hits_per_term": 15
+}

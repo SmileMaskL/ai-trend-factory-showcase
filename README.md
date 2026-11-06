@@ -24,5 +24,8 @@
 | [Hacker News 댓글의 'AI 말투' 패턴 밀도를 매일 수치화해 급등 시 텔레그램으로 알려주는 무인 레이더](./20261018_how-do-you-deal-with-ai-output-of-your-b/) | 2026-10-18 |
 | [AI 규제 담론이 추상적 구호에서 구체적 숫자(금액·사망자 수) 임계값으로 넘어가는 순간을 HN에서 포착해 텔레그램으로 알리는 무인 레이더](./20261019_anthropic-proposes-ai-safety-bill-with-1/) | 2026-10-19 |
 | [데이터센터 허가·그리드 정책-실행 괴리(policy-action gap) 신호를 HN+Google News에서 교차 포착해 텔레그램으로 알리는 무인 레이더](./20261020_texas-said-it-would-halt-data-center-per/) | 2026-10-20 |
+| [Agentitter 같은 "AI 에이전트가 직접 쓰는 제품" 런칭 신호를 HN에서 포착해 텔레그램으로 알리는 무인 큐레이션 레이더](./20261021_agentitter-a-tiny-plain-text-social-netw/) | 2026-10-21 |
+| [Hacker News에서 "AI가 고객에게 책임을 떠넘기는 계약/약관 조항" 신호를 벤더명×면책키워드 교차 필터링으로 포착해 텔레그램으로 알리는 무인 레이더](./20261022_metas-new-terms-say-if-its-ai-makes-a-mi/) | 2026-10-22 |
+| [HN에서 아직 안 뜬 AI 디자인/아트 툴 론칭 신호를 저포인트 구간에서 포착해 텔레그램으로 알리는 무인 얼리시그널 큐레이션 레이더](./20261023_inkspo/) | 2026-10-23 |
 
 _이 목록은 자동화 파이프라인이 매일 갱신합니다. 사람이 직접 편집하지 않습니다._
