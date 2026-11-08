@@ -1,0 +1,27 @@
+{
+  "billing_terms": [
+    "billing",
+    "payment",
+    "subscription",
+    "pricing",
+    "paywall",
+    "checkout",
+    "invoice",
+    "free tier",
+    "stripe"
+  ],
+  "security_terms": [
+    "bypass",
+    "exploit",
+    "vulnerability",
+    "hacked my own",
+    "bug bounty",
+    "security issue",
+    "found a bug",
+    "logic flaw",
+    "abuse"
+  ],
+  "lookback_days": 3,
+  "hits_per_term": 20,
+  "low_signal_threshold": 5
+}

@@ -27,5 +27,7 @@
 | [Agentitter 같은 "AI 에이전트가 직접 쓰는 제품" 런칭 신호를 HN에서 포착해 텔레그램으로 알리는 무인 큐레이션 레이더](./20261021_agentitter-a-tiny-plain-text-social-netw/) | 2026-10-21 |
 | [Hacker News에서 "AI가 고객에게 책임을 떠넘기는 계약/약관 조항" 신호를 벤더명×면책키워드 교차 필터링으로 포착해 텔레그램으로 알리는 무인 레이더](./20261022_metas-new-terms-say-if-its-ai-makes-a-mi/) | 2026-10-22 |
 | [HN에서 아직 안 뜬 AI 디자인/아트 툴 론칭 신호를 저포인트 구간에서 포착해 텔레그램으로 알리는 무인 얼리시그널 큐레이션 레이더](./20261023_inkspo/) | 2026-10-23 |
+| [SaaS 창업자의 자가 결제/빌링 취약점 디스클로저 글을 HN에서 조기 포착해 텔레그램으로 알리는 무인 큐레이션 레이더](./20261024_aethyro-ai-chat-saas-and-a-billing-bypas/) | 2026-10-24 |
+| [HN 언급량 기반 AI 런치 영상 툴(Sora/Runway/Pika/Kling 등) 급등 감지 텔레그램 레이더](./20261025_ai-generated-launch-videos-are-starting/) | 2026-10-25 |
 
 _이 목록은 자동화 파이프라인이 매일 갱신합니다. 사람이 직접 편집하지 않습니다._
