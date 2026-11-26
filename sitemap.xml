@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  <url>
+    <loc>https://github.io</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 외 24개 개별 포스트 URL 생략 (전체 소스코드는 저장소 내 원본 XML 구조 참고) -->
+  <url>
+    <loc>https://github.io20261025_ai-generated-launch-videos-are-starting/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
